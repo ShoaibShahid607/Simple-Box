@@ -1,0 +1,116 @@
+body {
+  background-color: brown;
+
+}
+
+/* Header Section Styling */
+#header {
+  background-color: white;
+  border: 1px solid black;
+  margin: 50px;
+  padding: 10px;
+  border-radius: 15px;
+}
+
+#nav1 {
+  background-color: pink;
+  border: 1px solid black;
+  padding: 20px;
+  display: inline-block;
+  width: 74%;
+
+}
+
+#nav1 span {
+  background-color: red;
+  padding: 15px;
+  border: 1px solid black;
+}
+
+#nav2 {
+  background-color: pink;
+  border: 1px solid black;
+  padding: 20px;
+  display: inline-block;
+  width: 15%;
+  float: right;
+}
+
+#nav2 span {
+  background-color: red;
+  padding: 15px;
+  border: 1px solid black;
+  margin-left: 5px;
+
+}
+
+/* Section One Styling */
+#sectionOne {
+  background-color: brown;
+  border: 1px solid white;
+  margin-left: 90px;
+  padding: 20px;
+  width: 85%;
+  height: 35vh;
+}
+
+.circle1 {
+  display: inline-block;
+  background-color: rgb(199, 19, 199);
+  border: 1px solid black;
+  padding: 110px;
+  border-radius: 115px;
+  margin-left: 150px;
+}
+
+.circle2 {
+  display: inline-block;
+  background-color: rgb(199, 19, 199);
+  border: 1px solid black;
+  padding: 110px;
+  border-radius: 115px;
+  margin-left: 100px;
+}
+
+.circle3 {
+  display: inline-block;
+  background-color: rgb(199, 19, 199);
+  border: 1px solid black;
+  padding: 110px;
+  border-radius: 115px;
+  margin-left: 100px;
+}
+
+/* Section Two Styling */
+.sectionA {
+  border: 1px solid black;
+  margin-top: 50px;
+  margin-left: 90px;
+  width: 25%;
+  height: 30vh;
+  display: inline-block;
+}
+
+.sectionB {
+  border: 1px solid black;
+  margin-top: 50px;
+  margin-left: 85px;
+  width: 25%;
+  height: 30vh;
+  display: inline-block;
+  float: right;
+  margin-right: 65px;
+}
+
+/* Footer Styling */
+#footer {
+  background-color: rgb(33, 169, 233);
+  border: 1px solid black;
+  margin: 70px 50px 20px 50px;
+  padding: 50px;
+  padding-bottom: 70px;
+}
+.span1{
+  float: right;
+  margin: 10px;
+}
